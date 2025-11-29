@@ -39,7 +39,13 @@ Thank you for stopping by my GitHub! 😄
 - **CI/CD DevOps Pipeline** – Jenkins, Docker, Kubernetes, Ansible ⚙️  
 - **Event Planning Web App** – Angular + NestJS + PostgreSQL 🗓️  
 - **INSAT Chat** – Secure messaging with Python & OpenSSL 🔒  
-- **Pokémon Classification MLOps** – MLflow pipeline 🐾  
+- **Pokémon Classification MLOps** – MLflow pipeline 🐾
+
+
+## 🔗 Check Out My Other GitHub Account
+
+I also maintain another GitHub account for personal projects and experiments:  
+[![Other GitHub](https://img.shields.io/badge/GitHub-OtherAccount-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safaakdidi)
 
 
 ## 📫 Connect with Me
