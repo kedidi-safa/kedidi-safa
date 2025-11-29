@@ -1,24 +1,24 @@
+# Hi there 👋 I'm Safa Kedidi  
 
-# Hi there 👋 I'm Safa Kedidi 
+💻 **Software Engineer | Full-Stack Developer | DevOps Enthusiast**  
 
-Software Engineer | Full-Stack Developer | DevOps Enthusiast  
+Thank you for stopping by my GitHub! 😄  
 
-Thank you for stopping by my GitHub!  
-
+---
 
 ## About Me  
 
-🔭 I’m currently working at TAICO GmbH as a Full-Stack Software Engineer.  
+🔭 I’m currently working at **TAICO GmbH** as a Full-Stack Software Engineer.  
 
-🌱 I’m constantly growing my skills in Django, Flask, React, Angular, Spring Boot, and cloud platforms like Google Cloud.  
+🌱 I’m constantly growing my skills in **Django, Flask, React, Angular, Spring Boot**, and cloud platforms like **Google Cloud, AWS & Azure**.  
 
-👯 I’m looking to collaborate on exciting full-stack projects, DevOps pipelines, and open-source initiatives.  
+👯 I’m looking to collaborate on exciting **full-stack projects, DevOps pipelines, and open-source initiatives**.  
 
-💬 Talk to me about Python, Java, C/C++, JavaScript, TypeScript, Full-Stack Development, DevOps, Big Data, MLOps, or just tech in general!
-
+💬 Talk to me about **Python, Java, C/C++, JavaScript, TypeScript, Full-Stack Development, DevOps, Big Data, MLOps**, or just tech in general!  
 
 🚀 **I build cool stuff with code, automate things, and love optimizing systems!**  
 
+---
 
 ## 🛠️ Tech & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,21 +35,32 @@ Thank you for stopping by my GitHub!
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
 
 ## 🌟 Projects
-- **Real-Time Real Estate Analysis** – Hadoop, Kafka, Spark, HBase  
-- **CI/CD DevOps Pipeline** – Jenkins, Docker, Kubernetes, Ansible  
-- **Event Planning Web App** – Angular + NestJS + PostgreSQL  
-- **INSAT Chat** – Secure messaging with Python & OpenSSL  
-- **Pokémon Classification MLOps** – MLflow pipeline  
+- **Real-Time Real Estate Analysis** – Hadoop, Kafka, Spark, HBase 📊  
+- **CI/CD DevOps Pipeline** – Jenkins, Docker, Kubernetes, Ansible ⚙️  
+- **Event Planning Web App** – Angular + NestJS + PostgreSQL 🗓️  
+- **INSAT Chat** – Secure messaging with Python & OpenSSL 🔒  
+- **Pokémon Classification MLOps** – MLflow pipeline 🐾  
 
+---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safa-k)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kedidi-safa)  
+- ✉️ **Email:** [safakedidi3@gmail.com](mailto:safakedidi3@gmail.com)  
+- 💬 **WhatsApp:** [+49 15510889322](https://wa.me/4915510889322)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safa-k)  
 
+---
 
-💡 **Fun fact:** I ❤️ exploring new tech, building full-stack apps, and making DevOps pipelines dance!
+## 📷 Fun & Visual
+Here are some of my favorite tech vibes!  
+
+![Coding GIF](https://media.giphy.com/media/3o7aD6nqgJb6QJ0A0g/giphy.gif)  
+![DevOps GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+
+💡 **Fun fact:** I ❤️ exploring new tech, building full-stack apps, and making DevOps pipelines dance! 💃
+
 
 
 <!--
