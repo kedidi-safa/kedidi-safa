@@ -4,7 +4,6 @@
 
 Thank you for stopping by my GitHub! 😄  
 
----
 
 ## About Me  
 
@@ -18,7 +17,6 @@ Thank you for stopping by my GitHub! 😄
 
 🚀 **I build cool stuff with code, automate things, and love optimizing systems!**  
 
----
 
 ## 🛠️ Tech & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,7 +33,6 @@ Thank you for stopping by my GitHub! 😄
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
 ## 🌟 Projects
 - **Real-Time Real Estate Analysis** – Hadoop, Kafka, Spark, HBase 📊  
@@ -44,20 +41,12 @@ Thank you for stopping by my GitHub! 😄
 - **INSAT Chat** – Secure messaging with Python & OpenSSL 🔒  
 - **Pokémon Classification MLOps** – MLflow pipeline 🐾  
 
----
 
 ## 📫 Connect with Me
 - ✉️ **Email:** [safakedidi3@gmail.com](mailto:safakedidi3@gmail.com)  
 - 💬 **WhatsApp:** [+49 15510889322](https://wa.me/4915510889322)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safa-k)  
 
----
-
-## 📷 Fun & Visual
-Here are some of my favorite tech vibes!  
-
-![Coding GIF](https://media.giphy.com/media/3o7aD6nqgJb6QJ0A0g/giphy.gif)  
-![DevOps GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
 
 💡 **Fun fact:** I ❤️ exploring new tech, building full-stack apps, and making DevOps pipelines dance! 💃
 
