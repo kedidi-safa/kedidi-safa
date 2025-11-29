@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm Safa Kedidi  
 
-Junior Software Engineer | Full-Stack Dev | DevOps Explorer  
+Software Engineer | Full-Stack Dev | DevOps Explorer  
 
 🚀 **I build cool stuff with code, automate things, and love optimizing systems!**  
 
