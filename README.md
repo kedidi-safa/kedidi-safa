@@ -43,7 +43,7 @@ Thank you for stopping by my GitHub! 😄
 
 
 ## 📫 Connect with Me
-[![LinkedIn: Safa Kedidi](https://img.shields.io/badge/-SafaKedidi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/safa-kedidi-513509226/)  
+[![LinkedIn](https://www.linkedin.com/in/safa-kedidi-513509226/)  
 [![Instagram Badge](https://img.shields.io/badge/-@SafaKedidi-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/safakdidi/)  
 [![Gmail Badge](https://img.shields.io/badge/-SafaKedidi-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:safakedidi3@gmail.com)
 
