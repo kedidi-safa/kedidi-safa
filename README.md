@@ -43,9 +43,10 @@ Thank you for stopping by my GitHub! 😄
 
 
 ## 📫 Connect with Me
-- ✉️ **Email:** [safakedidi3@gmail.com](mailto:safakedidi3@gmail.com)  
-- 💬 **WhatsApp:** [+49 15510889322](https://wa.me/4915510889322)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safa-k)  
+[![LinkedIn: Safa Kedidi](https://img.shields.io/badge/-SafaK-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/safa-k)  
+[![Instagram Badge](https://img.shields.io/badge/-@SafaK-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/safa_k)  
+[![Gmail Badge](https://img.shields.io/badge/-SafaKedidi-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:safakedidi3@gmail.com)
+
 
 
 💡 **Fun fact:** I ❤️ exploring new tech, building full-stack apps, and making DevOps pipelines dance! 💃
