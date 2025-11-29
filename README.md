@@ -45,7 +45,6 @@ Thank you for stopping by my GitHub! 😄
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safa-kedidi-513509226/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/safakdidi/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safakedidi3@gmail.com)
 
 💡 **Fun fact:** I ❤️ exploring new tech, building full-stack apps, and making DevOps pipelines dance! 💃
