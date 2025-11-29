@@ -1,7 +1,22 @@
 
-# Hi there 👋 I'm Safa Kedidi  
+# Hi there 👋 I'm Safa Kedidi 
 
-Software Engineer | Full-Stack Dev | DevOps Explorer  
+Software Engineer | Full-Stack Developer | DevOps Enthusiast  
+
+Thank you for stopping by my GitHub!  
+
+---
+
+## About Me  
+
+🔭 I’m currently working at TAICO GmbH as a Full-Stack Software Engineer.  
+
+🌱 I’m constantly growing my skills in Django, Flask, React, Angular, Spring Boot, and cloud platforms like Google Cloud.  
+
+👯 I’m looking to collaborate on exciting full-stack projects, DevOps pipelines, and open-source initiatives.  
+
+💬 Talk to me about Python, Java, C/C++, JavaScript, TypeScript, Full-Stack Development, DevOps, Big Data, MLOps, or just tech in general!
+
 
 🚀 **I build cool stuff with code, automate things, and love optimizing systems!**  
 
